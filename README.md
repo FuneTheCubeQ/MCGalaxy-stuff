@@ -7,8 +7,6 @@
 |  **CmdMeow** | Took panda's /banall plugin to make this
 
 
-`*` means that the plugin is private or made exclusive for specific people.
-
 ### Plugins
 | Name | Description |
 | ------------- | -----|
