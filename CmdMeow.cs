@@ -57,7 +57,6 @@ namespace MCGalaxy
 					return "%dbut went to Shad's store instead.";
 
 			}
-			return value;
 		}
 
 		public override void Help(Player p)
