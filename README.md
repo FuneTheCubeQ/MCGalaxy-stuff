@@ -15,13 +15,13 @@
 
 ### How to install plugins:
 1. Put the plugin's .cs file into the **./plugins/** folder. If it's not there, make a new folder and put it in there.
-2. Either in-game or via the server console, type **/pcompile [plugin name]**. It should say **Plugin compiled successfully.**, if it doesn't, make an issue [here](https://github.com/VenkSociety/MCGalaxy-Tools/issues).
+2. Either in-game or via the server console, type **/pcompile [plugin name]**. It should say **Plugin compiled successfully.**, if it doesn't, something is wrong on the plugin
 3. Now type **/pload [plugin name]**. It should say **Plugin loaded successfully.**
 4. And you're done, enjoy your plugin.
 
 ### How to install commands:
 1. Put the command's .cs file into the **./extra/commands/source/** folder. If it's not there, make a new folder and put it in there.
-2. Either in-game or via the server console, type **/compile [command name]**. It should say **Command compiled successfully.**, if it doesn't, make an issue [here](https://github.com/VenkSociety/MCGalaxy-Tools/issues).
+2. Either in-game or via the server console, type **/compile [command name]**. It should say **Command compiled successfully.**, if it doesn't, something is wrong on the command.
 3. Now type **/cmdload [command name]**. It should say **Command loaded successfully.**
 4. And you're done, enjoy your command.
 
