@@ -5,7 +5,7 @@
 | Name | Description |
 | ------------- | -----|
 |  **CmdMeow** | Took panda's /banall plugin to make this.
-|  **CmdQuack** | Was super easy to make lol.
+|  **CmdQuack** | Was super easy to make lol. (YOU NEED TWO CUSTOM COLORS %j AND %z)
 
 
 ### Plugins
