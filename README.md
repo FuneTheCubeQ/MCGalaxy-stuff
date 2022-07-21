@@ -4,7 +4,8 @@
 ### Commands
 | Name | Description |
 | ------------- | -----|
-|  **CmdMeow** | Took panda's /banall plugin to make this
+|  **CmdMeow** | Took panda's /banall plugin to make this.
+|  **CmdQuack** | Was super easy to make lol.
 
 
 ### Plugins
